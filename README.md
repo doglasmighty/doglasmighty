@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Daniel Okiki
 
-<!--
-**doglasmighty/doglasmighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student developer from Nigeria  
+💡 Passionate about AI, Web, and Crypto projects  
+🌱 Currently learning JavaScript, blockchain basics, and AI tools  
+🚀 Building: Dancrypto | DanGPT  
+📫 Email: okikiolajesudaniel@gmail.com  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- Git & GitHub
+- Blockchain basics (Bitcoin, Web3)
+- AI Tools (ChatGPT, basic ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [Dancrypto App UI](#) – Mobile-friendly crypto wallet design
+- [Crypto Price Tracker](#) – Real-time Bitcoin price web app
